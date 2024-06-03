@@ -1,0 +1,14 @@
+C:\Users\Dan\Desktop\RegexSolver\bin\Debug\RegexSolver.exe.config
+C:\Users\Dan\Desktop\RegexSolver\bin\Debug\RegexSolver.exe
+C:\Users\Dan\Desktop\RegexSolver\bin\Debug\RegexSolver.pdb
+C:\Users\Dan\Desktop\RegexSolver\obj\Debug\RegexSolver.csproj.AssemblyReference.cache
+C:\Users\Dan\Desktop\RegexSolver\obj\Debug\RegexSolver.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Desktop\RegexSolver\obj\Debug\RegexSolver.exe
+C:\Users\Dan\Desktop\RegexSolver\obj\Debug\RegexSolver.pdb
+C:\Users\Dan\Desktop\диплом\RegexSolver\bin\Debug\RegexSolver.exe.config
+C:\Users\Dan\Desktop\диплом\RegexSolver\bin\Debug\RegexSolver.exe
+C:\Users\Dan\Desktop\диплом\RegexSolver\bin\Debug\RegexSolver.pdb
+C:\Users\Dan\Desktop\диплом\RegexSolver\obj\Debug\RegexSolver.csproj.AssemblyReference.cache
+C:\Users\Dan\Desktop\диплом\RegexSolver\obj\Debug\RegexSolver.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Desktop\диплом\RegexSolver\obj\Debug\RegexSolver.exe
+C:\Users\Dan\Desktop\диплом\RegexSolver\obj\Debug\RegexSolver.pdb
