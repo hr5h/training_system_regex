@@ -1,0 +1,37 @@
+[0][=Python]
+# В Python, регулярные выражения доступны в библиотеке re.
+# re – это модуль Python, содержащий методы для работы с регулярными выражениями.
+import re
+[=CS]
+// Класс Regex и связанные с ним классы описаны в пространстве имен
+// System.Text.RegularExpressions.
+using System.Text.RegularExpressions;
+[=CPP]
+// В C++ регулярные выражения реализуются как часть библиотеки STL (Standard Template
+// Library), и для работы с регулярными выражениями требуется использование класса regex и
+// связанных с ним функций и методов.
+#include <regex>
+[------------------------------------------------------------------------------]
+[1-9][=Python]
+[-W]
+[code]
+def solve():
+    task("%{task}")
+    str = get_str()
+    regex = R""
+    list = re.findall(regex, str)
+    for it in list:
+        put(it)
+[------------------------------------------------------------------------------]
+[10][=Python]
+[code]
+def solve():
+    task("%{task}")
+    str = get_str()
+    regex = R""
+    res = re.search(regex, str)
+    if res:
+        put(True)
+    else:
+        put(False)
+[------------------------------------------------------------------------------]
